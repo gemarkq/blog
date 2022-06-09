@@ -51,7 +51,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Hi, I'm Jiankun, a current postgraduate student in The University of Manchester (Advanced Computer Science).
+        subtitle: Hi, I'm Jiankun, a current postgraduate student in UoM.
         avatar:
             enabled: true
             local: true
