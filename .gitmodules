@@ -1,0 +1,4 @@
+[submodule "gemarkqblog/public"]
+	path = gemarkqblog/public
+	url = https://github.com/gemarkq/gemarkq.github.io.git
+	branch = main
