@@ -32,7 +32,7 @@ DefaultContentLanguage: en
 hasCJKLanguage: false
 
 
-# enableEmoji: true
+enableEmoji: true
 
 permalinks:
     post: /p/:slug/
